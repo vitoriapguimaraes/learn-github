@@ -1,2 +1,2 @@
 # learn-github
-Repositória criado para resolução da atividade do módulo 3
+Repositório criado para resolução da atividade do módulo 3 do GH4Women 2025.
